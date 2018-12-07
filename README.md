@@ -5,7 +5,7 @@ Character Gazetteer
 
 Token Gazetteer
 
-Javadoc http://ikt.ui.sav.sk/gazetteer/ikt-gazetteers/javadoc
+[Javadoc](http://ikt.ui.sav.sk/gazetteer/ikt-gazetteers/javadoc)
 
 ## Publications
 NGUYEN, Giang - DLUGOLINSKÝ, Štefan - LACLAVÍK, Michal - ŠELENG, Martin - TRAN, Dinh Viet. Next improvement towards linear named entity recognition using character gazetteers. In Advances in Intelligent Systems and Computing : Advanced Computational Methods for Knowledge Engineering, 2014, vol. 282, p. 255-265. ISBN 978-3-319-06569-4. ISSN 2194-5357.
