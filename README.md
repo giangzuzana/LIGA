@@ -1,5 +1,5 @@
 # LIGA - in-memory LInear large-scale GAzetteers
-### Standalone contain extraction tools for NLP (Natural Language Processing), 2013-2014
+### Standalone contain extraction tools for NLP (Natural Language Processing)
 - Character Gazetteer
 - Token Gazetteer
 
@@ -12,4 +12,4 @@ DLUGOLINSKÝ, Štefan - NGUYEN, Giang - LACLAVÍK, Michal - ŠELENG, Martin. [Ch
 
 NGUYEN, Giang - DLUGOLINSKÝ, Štefan - LACLAVÍK, Michal - ŠELENG, Martin. [Token Gazetteer and Character Gazetteer for Named Entity Recognition](https://giangzuzana.github.io/files/2013_wikt_token.pdf). In 8th Workshop on Intelligent and Knowledge Oriented Technologies : WIKT 2013, Košice, 2013, p. 1-6. ISBN 978-80-8143-128-9. Best paper award.
 
-Authors: Giang Nguyen, Stefan Dlugolinsky, Michal Laclavik, Martin Seleng
+Authors: Giang Nguyen, Stefan Dlugolinsky, Michal Laclavik, Martin Seleng (2013-2014)
