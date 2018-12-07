@@ -1,0 +1,17 @@
+ns:m.011lpb	ns:type.object.name	Larry Holmes
+ns:m.012034	ns:common.topic.alias	Larry
+ns:m.013823	ns:type.object.name	Larry Lundstrom
+ns:m.014gf8	ns:common.topic.alias	Larry Lund
+ns:m.014gf8	ns:common.topic.alias	Larry Lundy Vice
+ns:m.014gf8	ns:common.topic.alias	Larry
+ns:m.015dlv	ns:common.topic.alias	Larry. Wise
+ns:m.0173yf	ns:type.object.name	Larry Millett
+ns:m.01762z	ns:type.object.name	Larry Ellison
+ns:m.017__g	ns:common.topic.alias	Larry Crabbe
+ns:m.017__g	ns:common.topic.alias	Larry \"Buster\" Crabbe
+ns:m.017__g	ns:common.topic.alias	Larry 'Buster' Crabbe
+ns:m.017hg_	ns:type.object.name	Larry Shields
+ns:m.014gf8	ns:common.topic.alias	Larry Lund
+ns:m.014gf8	ns:common.topic.alias	Larry L
+ns:m.017hg_01	ns:type.object.name	Visions of the future larry
+ns:m.017hg_02	ns:type.object.name	Visions

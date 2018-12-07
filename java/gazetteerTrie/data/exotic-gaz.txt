@@ -1,0 +1,19 @@
+ns:m.01qjt2f	ns:type.object.name	Muazzez Ersoy
+ns:m.01t05xq	ns:type.object.name	Muazzez Abacı
+ns:m.01t05xq	ns:common.topic.alias	Muazzez Abaci
+ns:m.0265prj	ns:type.object.name	Muazzez İlmiye Çığ
+ns:m.0265prj	ns:common.topic.alias	Muazzez İlmiye İtil
+ns:m.03c2jw9	ns:type.object.name	Muazzez Abacı
+ns:m.03f04sy	ns:type.object.name	Muazzez Türüng
+ns:m.0jf1w6t	ns:type.object.name	Muazzez Arçay
+ns:m.0jf1w6t	ns:common.topic.alias	Muazzez Fosforoglu
+ns:m.0s96s8j	ns:common.topic.alias	Muazzez Lutas
+ns:m.0s96s8j	ns:common.topic.alias	Muazzez Kurtoglu
+ns:m.0s96s8j	ns:type.object.name	Muazzez Kurdoglu
+ns:m.0s96s8j	ns:type.object.name	slovenske OK dačo ľščťťžýáíé 
+ns:m.0s96s8j	ns:type.object.name	vietnamske OK ĂăÂâÊêÔôƠơƯư
+ns:m.0s96s8j	ns:type.object.name	vietnamske OK ÀàẰằẦầÈèỀềÌìÒòỒồỜờÙùỪừỲ
+ns:m.0s96s8j	ns:type.object.name	vietnamske OK ẢảẲẳẨẩẺẻỂểỈỉỎỏỔổỞởỦủỬửỶỷ
+ns:m.0s96s8j	ns:type.object.name	vietnamske OK ÃãẴẵẪẫẼẽỄễĨĩÕõỖỗỠỡŨũỮữỸỹ
+ns:m.0s96s8j	ns:type.object.name	vietnamske OK ÁáẮắẤấÉéẾếÍíÓóỐốỚớÚúỨứÝý
+ns:m.0s96s8j	ns:type.object.name	vietnamske OK ẠạẶặẬậẸẹỆệỊịỌọỘộỢợỤụỰựỴỵ
