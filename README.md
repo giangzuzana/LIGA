@@ -3,8 +3,6 @@
 - Character Gazetteer
 - Token Gazetteer
 
-### [Javadoc](http://ikt.ui.sav.sk/gazetteer/ikt-gazetteers/javadoc)
-
 ### Publications
 G. Nguyen, S. Dlugolinsky, M. Laclavík, M. Šeleng, V. Tran. [Next improvement towards linear named entity recognition using character gazetteers](http://link.springer.com/chapter/10.1007/978-3-319-06569-4_19). In Advances in Intelligent Systems and Computing : Advanced Computational Methods for Knowledge Engineering, 2014, vol. 282, p. 255-265. ISBN 978-3-319-06569-4. ISSN 2194-5357.
 
