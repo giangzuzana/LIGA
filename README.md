@@ -1,11 +1,9 @@
 # LIGA - in-memory LInear large-scale GAzetteers
 ### Standalone contain extraction tools for NLP (Natural Language Processing)
+- Character Gazetteer
+- Token Gazetteer
 
-Character Gazetteer
-
-Token Gazetteer
-
-[Javadoc](http://ikt.ui.sav.sk/gazetteer/ikt-gazetteers/javadoc)
+### [Javadoc](http://ikt.ui.sav.sk/gazetteer/ikt-gazetteers/javadoc)
 
 ### Publications
 NGUYEN, Giang - DLUGOLINSKÝ, Štefan - LACLAVÍK, Michal - ŠELENG, Martin - TRAN, Dinh Viet. [Next improvement towards linear named entity recognition using character gazetteers](http://link.springer.com/chapter/10.1007/978-3-319-06569-4_19). In Advances in Intelligent Systems and Computing : Advanced Computational Methods for Knowledge Engineering, 2014, vol. 282, p. 255-265. ISBN 978-3-319-06569-4. ISSN 2194-5357.
