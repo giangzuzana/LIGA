@@ -2,6 +2,7 @@
 ### Standalone contain extraction tools for Natural Language Processing (NLP)
 - Character Gazetteer
 - Token Gazetteer
+
 The work is an extention of [ExPoS design](http://nazou.fiit.stuba.sk/home/?page=expos) based on Linear Substring Analysis (LSA)
 
 ### Publications
