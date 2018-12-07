@@ -10,4 +10,4 @@ S. Dlugolinsky, G. Nguyen, M. Laclavík, M. Šeleng. [Character gazetteer for na
 
 G. Nguyen, S. Dlugolinsky, M. Laclavík, M. Šeleng. [Token Gazetteer and Character Gazetteer for Named Entity Recognition](https://giangzuzana.github.io/files/2013_wikt_token.pdf). In 8th Workshop on Intelligent and Knowledge Oriented Technologies : WIKT 2013, Košice, 2013, p. 1-6. ISBN 978-80-8143-128-9. Best paper award.
 
-Authors: Giang Nguyen, Stefan Dlugolinsky, Michal Laclavik, Martin Seleng (2013-2014)
+Authors: G. Nguyen, S. Dlugolinsky, M. Laclavik, M. Šeleng (2013-2014)
