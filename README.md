@@ -1,5 +1,5 @@
 # LIGA - in-memory LInear large-scale GAzetteers
-### Standalone contain extraction tools for Natural Language Processing (NLP)
+### Standalone contain extraction tools for Natural Language Processing (NLP) in [IKT group](http://ikt.ui.sav.sk/gazetteer/)
 - Character Gazetteer
 - Token Gazetteer
 
