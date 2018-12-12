@@ -7,3 +7,4 @@
     - the native of python language in comparison with Java implementation
 - PHT has also Java implementation, the python implementation has good memory utilization due to
   - algorithm improvement and realization
+  - PHT has also Java implemetation
