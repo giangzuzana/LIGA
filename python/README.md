@@ -1,4 +1,4 @@
-## Python implemetations of HMT and PHT gazetters for 
+## Python implemetations of HMT and PHT gazetters
 - clearly algorithms descriptions
 
 ## Important notes
