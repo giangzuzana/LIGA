@@ -1,5 +1,5 @@
 # LIGA - in-memory LInear large-scale GAzetteers
-<a href="https://zenodo.org/badge/latestdoi/160861987"><img src="https://zenodo.org/badge/160861987.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.3575171"><img src="https://zenodo.org/badge/160861987.svg" alt="DOI"></a>
 
 ### Standalone contain extraction tools for Natural Language Processing (NLP) in [IKT group](http://ikt.ui.sav.sk/gazetteer/)
 - Character Gazetteer
